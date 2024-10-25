@@ -70,7 +70,7 @@
           <artifactId>tomcat7-maven-plugin</artifactId>
           <version>2.2</version>
           <configuration>
-            <url>http://localhost:8081/myfirstproject</url>
+            <url>http://localhost:8081//manager/textt</url>
             <server>Tomcat</server>
             <port>9090</port>
           </configuration>
